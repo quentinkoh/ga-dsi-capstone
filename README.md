@@ -1,4 +1,5 @@
 # ga-dsi-capstone
 GA DSI Capstone Project
 
-test
+To identify and classify online auction bidders as Bid-Bots or Humans
+
